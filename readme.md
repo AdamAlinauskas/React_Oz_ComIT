@@ -1,4 +1,4 @@
-# [ComIT](http://comit.org) Saskatoon Fall 2019 React Curriculum
+# [ComIT](http://comit.org) Oz 2019 React Curriculum
 
 ## Table of Contents
 
